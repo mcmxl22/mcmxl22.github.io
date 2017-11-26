@@ -1,0 +1,23 @@
+.bg-color {
+  background-color: darkgreen;
+}
+
+.name {
+  font-size: 28px;
+  width: 100%;
+  text-align: center;
+}
+#well{
+  display: flex;
+  width: 100%;
+}
+
+.stuff {
+  height: 850px;
+}
+
+.footer {
+  background-color: darkgrey;
+  height: 60px;
+  width: 100%;
+}
